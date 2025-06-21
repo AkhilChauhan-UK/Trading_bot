@@ -1,0 +1,22 @@
+2025-06-21 13:12:35,274:INFO:Bot initialized using testnet: True
+2025-06-21 13:13:05,514:ERROR:Order failed: API Secret required for private endpoints
+2025-06-21 13:18:25,083:INFO:Bot initialized using testnet: True
+2025-06-21 13:18:33,962:ERROR:Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-21 13:25:38,758:INFO:Bot initialized using testnet: True
+2025-06-21 13:25:46,656:ERROR:Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-21 13:35:34,039:INFO:Bot initialized using testnet: True
+2025-06-21 13:35:40,902:ERROR:Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-21 13:37:31,951:INFO:Bot initialized using testnet: True
+2025-06-21 13:37:44,358:ERROR:Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-21 13:38:51,833:INFO:Bot initialized using testnet: True
+2025-06-21 13:39:05,350:ERROR:Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-21 13:39:11,190:INFO:Bot initialized using testnet: True
+2025-06-21 13:39:31,181:ERROR:Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-21 13:39:39,816:INFO:Bot initialized using testnet: True
+2025-06-21 13:40:01,653:ERROR:Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-21 13:40:28,965:INFO:Bot initialized using testnet: True
+2025-06-21 13:41:07,263:ERROR:Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-21 13:45:29,523:INFO:Bot initialized using testnet: True
+2025-06-21 13:45:42,437:ERROR:Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-21 13:53:37,035:INFO:Bot initialized using testnet: True
+2025-06-21 13:53:55,778:ERROR:Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
